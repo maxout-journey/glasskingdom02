@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x138C368d684798243b51b6564D5f118c7f9e5Ff3",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x138c368d684798243b51b6564d5f118c7f9e5ff3",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Glass Kingdom",
+  "SYMBOL": "GKNFT",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/glass-kingdom-v2",
+  "SHOW_BACKGROUND": true
+}
